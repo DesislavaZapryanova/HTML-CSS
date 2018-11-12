@@ -1,0 +1,26 @@
+.center-heading {
+  color: #006600;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: #ffcc66;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.div-fontsize {
+  font-size: 24px;
+}
+
+.flex-container {
+  display: flex;
+  background: lightgreen;
+}
+
+.flex-container > div {
+  background-color: #006600;
+  margin: 15px;
+  padding: 20px;
+  font-size: 20px;
+}
